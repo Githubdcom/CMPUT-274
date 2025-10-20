@@ -6,3 +6,6 @@
 *.fls
 *.fdb_latexmk
 *.synctex.gz
+
+# Temporary image files
+page-*.png
